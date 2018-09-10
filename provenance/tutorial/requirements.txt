@@ -1,0 +1,5 @@
+numpy==1.14.0
+scipy==1.0.0
+pillow==5.0.0
+opencv-python
+futures
