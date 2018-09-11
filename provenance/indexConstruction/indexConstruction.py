@@ -32,7 +32,7 @@ class indexConstruction:
     algorithmName = "ND_dsurf_5000_filtering"
     preproc_type = ""
     nonBinarizedFeatures = False
-    trainSize = "1000000"
+    trainSize = "100000"
     algorithmVersion = "1.0"
     onlyBuildIDMap = False
     dbname = None
@@ -52,7 +52,7 @@ class indexConstruction:
     base_feature_file = ""
     query_feature_file = ""
     featureCountFile = None
-    train_size = 100000000
+    train_size = 100000
     recursive = False
     totalFeatureNum = -1
     kp_per_file = 5000
