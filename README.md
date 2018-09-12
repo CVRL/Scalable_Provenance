@@ -6,11 +6,9 @@ DESCRIPTION:
 ************
 This code implements the algorithms described in ["Image Provenance at Scale"](https://arxiv.org/abs/1801.06510)
 
-It includes 4 main parts:
-* Image feature extraction
-* Image search index construction
-* Query image filtering
-* Provenance Graph Building
+As expressed in the above illustration, it includes 2 main parts:
+* [Image Filtering](image_filtering/README.md)
+* [Graph Building](graph_building/README.md)
 
 Each part of this pipeline creates output that is then used as input for the next part of the pipeline. 
 
@@ -53,10 +51,6 @@ urlparse
 joblib
 
 
-USAGE:
-******
-To run the example test case, run ./provenance/tutorial/runPython3.sh NOTE: This is a test case with 100 world images and 10 probe images, and will not produce any meaningful results!
-
-DOCKER:
-******
-A dockerfile has also been included which contains the exact environmental setup required for this code to run. You can either build the dockerfile yourself, or use the dockerfile as a template to set up the code requirements lcoally.
+QUESTIONS:
+**********
+Please contact Joel Brogan (joel.r.brogan.20@nd.edu ), Aparna Bharati (aparna.bharati.1@nd.edu), or Daniel Moreira (dhenriq1@nd.edu).
