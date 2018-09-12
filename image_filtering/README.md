@@ -1,6 +1,6 @@
 # Image Filtering #
 
-![The full image provenance pipeline](figure1.png?raw=true "Figure1")
+![The full image provenance pipeline](../figure1.png?raw=true "Figure1")
 
 DESCRIPTION:
 ************

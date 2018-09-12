@@ -4,7 +4,7 @@
 
 DESCRIPTION:
 ************
-This code implements the algorithms described in ["Image Provenance at Scale"](https://arxiv.org/abs/1801.06510)
+This code implements the algorithms described in ["Image Provenance at Scale"](https://arxiv.org/abs/1801.06510).
 
 As expressed in the above illustration, it includes 2 main parts:
 * [Image Filtering](image_filtering/README.md)

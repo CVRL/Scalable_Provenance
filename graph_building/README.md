@@ -1,6 +1,6 @@
 # Image Provenance Analysis at Scale
 ## Provenance Graph Building
-![The full image provenance pipeline](figure1.png?raw=true "Figure1")
+![The full image provenance pipeline](../figure1.png?raw=true "Figure1")
 
 This code implements the algorithms described in ["Image Provenance at Scale"](https://arxiv.org/abs/1801.06510), with respect to the step of "graph building" (right side of the illustration above).
 
